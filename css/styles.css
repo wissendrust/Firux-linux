@@ -13,8 +13,10 @@ header {
 
 .header .logo img {
     height: 30px; /* Ajusta la altura del logo según lo necesites */
+    width: auto;  /* Ajusta el ancho automáticamente para mantener la proporción */
     margin-left: 20px;
 }
+
 
 nav ul {
     list-style: none;
