@@ -12,7 +12,7 @@ header {
 }
 
 .header .logo img {
-    height: 50px;
+    height: 30px; /* Ajusta la altura del logo según lo necesites */
     margin-left: 20px;
 }
 
