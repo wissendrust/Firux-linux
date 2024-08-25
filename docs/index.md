@@ -15,7 +15,7 @@ To install Firux Linux, follow these steps:
 1. Download the installer from [our website](https://wissendrust.github.io/Firux-linux/).
 2. Run the installer and follow the on-screen instructions:
 
-        sudo pacman -S firux_package
+    sudo pacman -S firux_package
 
 ## Explore Firux Linux
 
