@@ -13,8 +13,8 @@ FiruxLinux is a Linux distribution developed by Wissendrust, designed to be flex
 
 To install FiruxLinux, follow these steps:
 
-1. **Installation**: Use the FLUPI method to [install](installflupi.md) the base operating system.
-2. **Configuration**: Follow the initial setup instructions provided in the documentation.
+1. **Installation**: Use the FLUPI method to [install](md's/install.md) the base operating system.
+3. **Configuration**: Follow the initial setup instructions provided in the documentation.
 
 ## Contributing
 
