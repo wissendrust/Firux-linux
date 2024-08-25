@@ -10,12 +10,9 @@ Firux Linux is an innovative operating system based on Arch Linux. We offer a mo
 
 ## Installation
 
-To install Firux Linux, follow these steps:
+To install Firux Linux, simply run the following command in your terminal:
 
-1. Download the installer from [our website](https://wissendrust.github.io/Firux-linux/).
-2. Run the installer and follow the on-screen instructions:
-
-    sudo pacman -S firux_package
+        sudo pacman -S firux_package
 
 ## Explore Firux Linux
 
