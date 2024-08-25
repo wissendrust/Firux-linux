@@ -1,15 +1,23 @@
 # Features of Firux Linux
 
-Discover the main features that make Firux Linux unique.
+Firux Linux offers a range of features designed to enhance your user experience:
 
-## Performance
+- **Advanced Customization:** Adjust the system according to your preferences.
+- **Continuous Updates:** Keep your system up to date with the latest versions.
+- **Comprehensive Documentation:** Refer to our documentation for the latest information.
 
-Optimized to deliver the best performance on various hardware configurations.
+## Desktop Environment
 
-## Customization
+The desktop environment of Firux Linux is highly configurable and designed to provide a smooth and efficient user experience.
 
-Highly configurable to meet your needs and preferences.
+## Explore Firux Linux
 
-## Security
+Learn more about Firux Linux:
 
-Includes the latest updates and patches to keep your system secure.
+- [Home](index.md)
+- [Introduction](intro.md)
+- [User Guide](user-guide.md)
+
+## Support
+
+For additional support, consult the documentation or contact us at firuxlinux@proton.me.
