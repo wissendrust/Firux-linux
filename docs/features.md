@@ -15,6 +15,7 @@ The desktop environment of Firux Linux is highly configurable and designed to pr
 Learn more about Firux Linux:
 
 - [Home](index.md)
+- [Download](download.md)
 - [Introduction](intro.md)
 - [User Guide](user-guide.md)
 
