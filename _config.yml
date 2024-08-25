@@ -1,3 +1,5 @@
 title: Firux Linux
 description: official web of firux linux
 theme: jekyll-theme-dark
+plugins:
+  - jekyll-assets
