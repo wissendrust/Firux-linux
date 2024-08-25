@@ -1,6 +1,6 @@
 # Installing FiruxLinux with FLUPI
 
-Welcome to the FiruxLinux installation guide using the FLUPI method! This method simplifies the installation process by avoiding the need to download a complete ISO image. Instead, we will download the base operating system and then install the necessary packages.
+Welcome to the FiruxLinux installation guide using the FLUPI method! This method simplifies the installation process. Instead of using a full ISO image, we will download the base operating system and then install the necessary packages.
 
 ## Requirements
 
@@ -15,56 +15,31 @@ Welcome to the FiruxLinux installation guide using the FLUPI method! This method
 
 2. **Download the FLUPI Installer**
 
-   Download the FLUPI package from the official FiruxLinux page or repository. You can use `wget` or `curl` for this:
+   Download the FiruxLinux package from the official FiruxLinux repository. You can use `pacman` to do this:
 
-   bash
-   wget https://example.com/path/to/flupi-installer.tar.gz
-   
+       sudo pacman -S firux_package
 
-3. **Extract the Package**
-
-   Extract the downloaded file:
-
-   bash
-   tar -xzvf flupi-installer.tar.gz
-   
-
-4. **Run the Installer**
-
-   Navigate to the extracted directory and run the installation script:
-
-   bash
-   cd flupi-installer
-   sudo ./install.sh
-   
-
-5. **Configure the Installation**
+3. **Configure the Installation**
 
    During installation, the script will prompt you to select some settings and options. Follow the on-screen instructions to configure your FiruxLinux installation.
 
-6. **Install Additional Packages**
+4. **Install Additional Packages**
 
-   Once the base installation is complete, you can install any additional packages needed for your environment. Use the following command to install the FiruxLinux base package:
+   To install additional packages, use `pakman` (PAcKage MANager):
 
-   bash
-   sudo pacman -S firux-base
-   
+       sudo pakman -i <package-name>
 
-   To install any other packages, use:
+   Alternatively, you can use `pacman`:
 
-   bash
-   sudo pacman -S <package-name>
-   
+       sudo pacman -S <package-name>
 
-7. **Reboot the System**
+5. **Reboot the System**
 
    After completing the installation and configuration, reboot your system to apply the changes:
 
-   bash
-   sudo reboot
-   
+       sudo reboot
 
-8. **First Boot**
+6. **First Boot**
 
    Upon rebooting, you should see the new FiruxLinux operating system. Log in with the credentials you configured during the installation.
 
@@ -75,6 +50,7 @@ Welcome to the FiruxLinux installation guide using the FLUPI method! This method
 
 ## Support
 
-If you encounter any problems or have questions, feel free to contact FiruxLinux support via email: support@firuxlinux.org.
+If you encounter any problems or have questions, feel free to contact FiruxLinux support via email: [firuxlinux@proton.me](mailto:firuxlinux@proton.me).
 
 Thank you for choosing FiruxLinux!
+
