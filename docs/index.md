@@ -19,9 +19,11 @@ To install Firux Linux, simply run the following command in your terminal:
 Learn more about Firux Linux:
 
 - [Features](features.md)
+- [Download](download.md)
 - [Introduction](intro.md)
 - [User Guide](user-guide.md)
 
 ## Support
 
 If you need assistance, you can contact us via email at: firuxlinux@proton.me.
+
