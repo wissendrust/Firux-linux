@@ -15,6 +15,7 @@ Explore our features and see how Firux Linux can enhance your computing experien
 Learn more about Firux Linux:
 
 - [Home](index.md)
+- [Download](download.md)
 - [Features](features.md)
 - [User Guide](user-guide.md)
 
