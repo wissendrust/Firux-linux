@@ -2,4 +2,4 @@ title: "Firux Linux"
 description: "Official website of Firux Linux"
 theme: jekyll-theme-minimal
 url: "https://wissendrust.github.io"
-baseurl: "/Firux-linux"
+baseurl: "/docs"
