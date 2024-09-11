@@ -1,33 +1,32 @@
-# FiruxLinux
+# Firux Linux (fxlx)
 
-FiruxLinux is a Linux distribution developed by Wissendrust, designed to be flexible and customizable, providing a unique experience for users, particularly developers.
+![Firux Linux Logo](src/img/logo.png)
 
-## Features
+## What is Firux Linux?
 
-- **Base**: Based on Arch Linux for a stable and up-to-date experience.
-- **Custom Shell**: Includes Free Clippy, a bash-based custom shell.
-- **Package Management**: Uses Pakman, a unique package installer developed for FiruxLinux.
-- **Installation Method FLUPI**: An innovative method for installing FiruxLinux without needing an ISO.
+Firux Linux (fxlx) is an upgrade-oriented operating system designed to enhance and update Arch Linux-based systems. Whether you're a novice user or an experienced programmer, Firux Linux offers a highly configurable environment that can be tailored to your needs.
+
+### Key Features
+
+- **Upgrade Arch-based OS:** Firux Linux enhances and keeps your Arch-based OS up to date.
+- **Custom Shell (xsh):** An improved shell based on zsh with custom commands like `redpak`, `pakman`, and `show`.
+- **Package Managers:** Utilizes `pacman`, `pakman`, and `redpak` (for the `red` version).
+- **FLUPI Installation Method:** Install Firux Linux as a customization layer on top of a base OS.
+- **Documentation:** Comprehensive documentation available, with source code exploration encouraged.
 
 ## Installation
 
-To install FiruxLinux, follow these steps:
-
-1. **Installation**: Use the FLUPI method to [install](md's/install.md) the base operating system.
-3. **Configuration**: Follow the initial setup instructions provided in the documentation.
-
-## Contributing
-
-If you would like to contribute to the project, please review our [contributing guidelines](CONTRIBUTING.md). We appreciate any help in improving FiruxLinux.
+Please refer to the [INSTALL.md](./INSTALL.md) for detailed installation instructions.
 
 ## License
 
-FiruxLinux is licensed under the Wissen-Open-License (WOP). For more details on the terms and conditions, please see [LICENSE.md](LICENSE.md).
+Firux Linux is licensed under the Wissen-Open-License (WOL). See [LICENSE.md](./LICENSE.md) for more information.
 
-## Contact
+## Contributing
 
-For any questions or comments, please contact us at [wissendrust@proton.me](mailto:wissendrust@proton.me).
+We welcome contributions from everyone. Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to get started.
 
----
+## Get in Touch
 
-Thank you for your interest in FiruxLinux!
+- **GitHub:** [Firux Linux](https://github.com/wissendrust/Firux-linux)
+- **X (Twitter):** [Firux Linux](https://x.com/firux_linux)
